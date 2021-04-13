@@ -11,7 +11,7 @@ const HeaderMain = () => {
             </div>
             <div className="col-md-6">
                 <img src={chair} alt="" className="img-fluid"/>
-            </div>cd
+            </div>
         </main>
     );
 };
